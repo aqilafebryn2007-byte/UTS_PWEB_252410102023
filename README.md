@@ -24,25 +24,25 @@ FilmKu merupakan website sederhana untuk mencatat film dan series yang sudah mau
 
 ### 1. Halaman Login
 
-![Halaman Login](screenshots/login.png)
+![Halaman Login](screenshots/LOGIN.png)
 
 ### 2. Halaman Dashboard
 
-![Halaman Dashboard](screenshots/dashboard.png)
+![Halaman Dashboard](screenshots/DASHBOARD.png)
 
 ### 3. Halaman Profile
 
-![Halaman Profile](screenshots/profil.png)
+![Halaman Profile](screenshots/PROFIL.png)
 
 ### 4. Halaman Pengelolaan Koleksi
 
-![Halaman Pengelolaan Koleksi](screenshots/pengelolaan.png)
+![Halaman Pengelolaan Koleksi](screenshots/PENGELOLAAN.png)
 
 ## 🎓 Identitas Mahasiswa
 
-- Nama: [Nama kamu]
+- Nama: Aqila Febryn Dwi Putri Widyana 
 - NIM: 252410102023
-- Kelas: [Kelas kamu]
+- Kelas: A
 - Mata Kuliah: Pemrograman Web
 - Proyek: Ujian Tengah Semester (UTS)
 - Nama Website: FilmKu
